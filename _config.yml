@@ -1,7 +1,7 @@
 name: The Sacred Record
 favicon: null
-layout_spectrum: 0.34689229261130095
-typography_spectrum: 0.6481745501514524
+layout_spectrum: 0.27252
+typography_spectrum: 0.36213
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.976326483534649
-  lightness: 0.4461006158962846
-  saturation: 0.6875579298939556
+  brandStrength: 0.8125
+  lightness: 0.1875
+  saturation: 0.5
   rhythmicContrast: 0.6483602288644761
 purpose: []

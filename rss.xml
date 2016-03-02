@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Sacred Record]]></title>
+        <description><![CDATA[The Sacred Record]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Mar 2016 18:30:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[THIS IS A TEST]]></title>
+            <description><![CDATA[<article><h1>THIS IS A TEST</h1><h2>A test of the emergency broadcast system.  This is only a test. I said.</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1f0b6aeb16fccc50cc7b6b5a400b9f50c592b5c.jpg"></article>]]></description>
+            <link>undefinedthis-is-a-test/index.html</link>
+            <guid isPermaLink="false">bf740afc-9fa8-41c9-b886-6a42b7950554</guid>
+            <pubDate>Wed, 02 Mar 2016 18:30:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

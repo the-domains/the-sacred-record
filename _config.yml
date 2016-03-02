@@ -1,0 +1,28 @@
+name: The Sacred Record
+favicon: null
+layout_spectrum: 0.34689229261130095
+typography_spectrum: 0.6481745501514524
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.976326483534649
+  lightness: 0.4461006158962846
+  saturation: 0.6875579298939556
+  rhythmicContrast: 0.6483602288644761
+purpose: []
